@@ -25,7 +25,7 @@ Currently, I'm learning more about PowerBI and integrating SQL to create clean a
 
 I've recently worked on a few projects that I've been able to learn and apply new skills.
 
-### Customer Churn Interactive Prediction Tool [🔗](https://github.com/daniel06smith/telco-customer-churn)
+### Telco Customer Churn Predictor [🔗](https://github.com/daniel06smith/telco-customer-churn)
 
 I used Python within Jupyter Notebooks to perform EDA, pre-processing, and initial modelling to model customer churn from IBM's Telco dataset.
 After, I modularized each step using Python files, trained and tuned 3 different ML models (XGBoost, LightGBM, Random Forest) using MLFlow and Optuna to observe and preserve each model artifact for full reproducability.
