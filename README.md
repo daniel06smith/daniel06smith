@@ -32,7 +32,7 @@ After, I modularized each step using Python files, trained and tuned 3 different
 
 Using the optimally trained model, I deployed a user-facing Streamlit dashboard, which predicts a specific customer's churn probability based on their current internet plan, and identifies the most significant singular changes to reduce the customer's churn probability.
 
-## PlantCo Sales Dashboard [🔗](https://github.com/daniel06smith/plant-sales-performance-report)
+### PlantCo Sales Dashboard [🔗](https://github.com/daniel06smith/plant-sales-performance-report)
 
 Using PowerBI, I created an interactive reporting dashboard that is able to compare YTD vs PYTD values on 3 metrics - Quantity, Gross Profit, and Income.
 
