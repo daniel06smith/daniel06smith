@@ -11,7 +11,8 @@ I'm seeking for my first co-op opportunity to apply and validate the skills I've
 ## My Tech Stack
 
 Languages: Python, R, SQL
-Tools: PowerBI, MSSQL, Streamlit, Excel, Git, Docker, Jupyter Notebooks
+
+Tools: PowerBI, SMSS, SQL, Streamlit, Excel, Git, GitHub, Docker, Jupyter Notebooks
 
 ---
 
@@ -37,6 +38,10 @@ Using the optimally trained model, I deployed a user-facing Streamlit dashboard,
 Using PowerBI, I created an interactive reporting dashboard that is able to compare YTD vs PYTD values on 3 metrics - Quantity, Gross Profit, and Income.
 
 This dashboard uses switches to dynamically change between each year, ranging from 2022 - 2024, and to change between each metric bsaed on the stakeholder's interests. The high level visualizations allow for drilling down, so stakeholders can easily investigate both positive and negative trends in the data.
+
+### Bike Shop KPI Dashboard [🔗](https://github.com/daniel06smith/bike-shop-kpi-report)
+
+Another PowerBI project; however, this time I used SSMS (SQL Server Management Studio) and SQL to query the data into PowerBI through a live connection. The dashboard features a simple year splicer, a few easy-to-read visualizations, and a drill-down into the busiest hours for each day of the week.
 
 ---
 
